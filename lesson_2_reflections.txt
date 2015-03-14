@@ -18,6 +18,12 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	The staging area allows you to separate files that are going to be commited
+	from the ones that aren't going to be commited, so if you made changes to
+	a group of files but half of them constitute a logical change and the other
+	half constitute a different logical change, then you can use the staging area
+	to make different commits for the each of the logical changes. 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
