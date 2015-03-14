@@ -14,7 +14,6 @@ What value do you think it offers?
 	most recent commit.
 
 
-
 How can you use the staging area to make sure you have one commit per logical
 change?
 
@@ -26,6 +25,12 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	Branches are helpful when you have multiple versions af the same project that
+	are different bya a major factor like language or it helps you try implementing
+	new features in a program that you aren't sure if it's neccesary or it's gonna work.
+	Branches would help by giving you security that your main version it's protected from
+	any change that doesn't work in the other branches.
 
 How do the diagrams help you visualize the branch structure?
 
