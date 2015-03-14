@@ -10,8 +10,8 @@ What value do you think it offers?
 
 	The staging area is different because this area only contains files that
 	are going to be commited to the repository, the repository contains all the
-	commits that have been made and the working directory contains the files of the
-	most recent commit.
+	commits that have been made and the working directory contains the files of 
+	the most recent commit.
 
 
 How can you use the staging area to make sure you have one commit per logical
@@ -28,9 +28,9 @@ organized? How would branches help?
 
 	Branches are helpful when you have multiple versions af the same project that
 	are different bya a major factor like language or it helps you try implementing
-	new features in a program that you aren't sure if it's neccesary or it's gonna work.
-	Branches would help by giving you security that your main version it's protected from
-	any change that doesn't work in the other branches.
+	new features in a program that you aren't sure if it's neccesary or it's gonna 
+	work. Branches would help by giving you security that your main version it's 
+	protected from any change that doesn't work in the other branches.
 
 How do the diagrams help you visualize the branch structure?
 
@@ -39,5 +39,5 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
