@@ -12,3 +12,12 @@ stay up-to-date with your remote repository?
 	and that person push the changes to the remote repository, git will update your
 	repository but your editor will not automatically update and when you save the
 	changes you made to the file your will overwrite the changes the other person made.
+
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+
+	- A fork is a direct copy of a Github repository from one account to another Github
+	account
+	- A clone is a copy of a local or github repository to your local machine
+	- A branch lets you manage a group of commits that can be different to other 
+	  commits in other branches contained in the same repository 
