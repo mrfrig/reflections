@@ -27,3 +27,20 @@ locally?
 
 	When pulling or pushing it helps git determine how to handle the merge, either
 	using a fast foward merge or a normal merge.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what
+would be harder?
+
+	The only thing that would be easier collaborating not using Git/Github would be
+	saving a changes in a file because the team doesn't have to keep making logical
+	divisions of the work they do and then add, commit and push the change, and if the
+	work it's divided in a way that guaranties there wont be conflicts when the team
+	commbine the work then the merge step is easier too.
+
+	On the other hand a lot of things are harder if you don't use Git or GitHub, things
+	like:
+		- It would be difficult to backtrack changes made to the files
+		- It's harder to coordinate changes made to the work if 2 or more people can 
+		work on the same file
+		- It's harder to try new experimental changes to the work
+		- The team will need constant communication to made changes
