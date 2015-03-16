@@ -20,4 +20,10 @@ instead of another?
 	account
 	- A clone is a copy of a local or github repository to your local machine
 	- A branch lets you manage a group of commits that can be different to other 
-	  commits in other branches contained in the same repository 
+	  commits in other branches contained in the same repository
+
+What is the benefit of having a copy of the last known state of the remote stored
+locally?
+
+	When pulling or pushing it helps git determine how to handle the merge, either
+	using a fast foward merge or a normal merge.
